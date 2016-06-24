@@ -1,0 +1,4 @@
+# Basic Requirements
+https://github.com/GoogleCloudPlatform/DataflowPythonSDK/archive/v0.2.6.tar.gz
+# Notebook Examples
+ipython[all]==4.2.0
